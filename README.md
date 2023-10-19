@@ -18,7 +18,7 @@ Library of useful hooks and utils that I wrote by myself for different projects
 
 ### utils
 
-`getChangesData`
+`getChangedData`
 
 * function for PATCH method of the REST API
 * compares current data and data to send (e.g for editing userProfile) and returns object with keys only with changed values
